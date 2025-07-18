@@ -55,3 +55,4 @@ Extensions Possible:
 - Add support for variables and assignments.
 - Add power operator '^'.
 - Support more complex expressions or functions like sin(), cos(), etc.
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/f57b1f73-adeb-4038-8c0d-daa92c042636" />
